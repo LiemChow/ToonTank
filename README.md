@@ -1,0 +1,8 @@
+- Section Plan
+  - Create a Tank that can move throughout the word
+  - Handle input(WASD movement, mouse clicks)
+  - Create an enemy Turret class
+  - Add fire functionality with projectiles
+  - Add health, damage, and destuction to the game
+  - Add special effects(smoke, explosions, sounds)
+  - Add winning/losing conditions with HUD displays
